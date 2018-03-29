@@ -1,4 +1,6 @@
 steps:
   - label: Example Test
     command: echo "Hello!"
+  - label: Example Test Two?
+    command: echo "Second!"
   - trigger: "another-pipeline"
